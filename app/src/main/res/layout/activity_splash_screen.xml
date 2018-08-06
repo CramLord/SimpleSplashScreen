@@ -17,4 +17,11 @@
         android:textStyle="bold"
         android:text="Rate my isp!"/>
 
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:src="@drawable/logo_splash"
+        />
+
 </android.support.constraint.ConstraintLayout>
